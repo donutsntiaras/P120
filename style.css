@@ -1,0 +1,37 @@
+body{  
+    font-family: 'Dancing Script', cursive;
+    background:rgb(241, 144, 17);
+}
+
+.img-responsive{
+    width:500px;
+    height: 450px;
+}
+
+#highlighter{
+    width: 700px;
+}
+
+#hangars{
+    height: 700px;
+}
+
+#bedside{
+    width: 700px;
+}
+
+#chair{
+    height: 700px;
+}
+
+#test{
+    font-size:40px;
+}
+
+#mug{
+    height: 700px;
+}
+
+#label{
+    font-size:40px;
+}
